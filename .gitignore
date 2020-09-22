@@ -1,0 +1,10 @@
+.settings
+.metadata
+.settings
+.clashpath
+.project
+.target
+bin/
+.mvn*
+mvnw*
+/target/
